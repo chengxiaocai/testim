@@ -1,0 +1,44 @@
+</p>
+
+<p>
+Someone (hopefully you) has requested a password reset for your A Plan account.  tap on the device type of your mobile below to to open app or web browser to set a new password:
+
+<a href="aplan://resetpwd?ekey=643f2ce7de9928dbce45cf57db8fad76"> iOS Device</a> | <a href=“aplancc://resetpwd?ekey=643f2ce7de9928dbce45cf57db8fad76"> Android Device</a> | <a href="http://www.tripc2c.com/index.php?dispatch=auth.recover_password&ekey=643f2ce7de9928dbce45cf57db8fad76"> Web Site</a>
+</p>
+
+<p>
+If you don't wish to reset your password, disregard this email and no action will be taken.
+</p>
+
+<p>
+Best regards, 
+</p>
+<p>
+TripC2C Support
+</p>
+<p>
+You may find more information on <a href="http://www.planc2c.com">TRIPC2C website</a> or contact us by sending mail to: support@tripc2c.com.  
+</p>
+
+
+</p>
+
+<p>
+Someone (hopefully you) has requested a password reset for your A Plan account.  tap on the device type of your mobile below to to open app or web browser to set a new password:
+
+<a href="aplan://resetpwd?ekey=fa055f58d51fc5cb00f7698583d4b3a1"> iOS Device</a> | <a href="aplancc://resetpwd?ekey=fa055f58d51fc5cb00f7698583d4b3a1"> Android Device</a> | <a href="http://www.tripc2c.com/index.php?dispatch=auth.recover_password&ekey=fa055f58d51fc5cb00f7698583d4b3a1"> Web Site</a>
+</p>
+
+<p>
+If you don't wish to reset your password, disregard this email and no action will be taken.
+</p>
+
+<p>
+Best regards,
+</p>
+<p>
+TripC2C Support
+</p>
+<p>
+You may find more information on <a href="http://www.planc2c.com">TRIPC2C website</a> or contact us by sending mail to: support@tripc2c.com. 
+</p>
